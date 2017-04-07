@@ -2,7 +2,7 @@
 
 Hi people
 
-[Slither] (slither.io/)
+[Slither](slither.io/)
 
 
 ### Markdown
