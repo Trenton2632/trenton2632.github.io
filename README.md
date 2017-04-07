@@ -3,11 +3,11 @@
 Sup dogs
 
 ![image](https://media.giphy.com/media/CzOyYpyNqbT8c/giphy.gif)
-![image](http://vignette2.wikia.nocookie.net/plantsvszombies/images/a/a7/Frog_mlg.gif/revision/latest?cb=20160415014638)
+
 
 ### Hi Jake and Jimmy!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://media.tenor.co/images/1381f3b25c04df112e61cfaaddd876e2/tenor.gif)
 
 ```markdown
 Syntax highlighted code block
