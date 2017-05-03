@@ -2,8 +2,8 @@
 
 Sup dogs chicken is good
 
-#### ![image](https://media.giphy.com/media/TeBpzQZRaBIC4/source.gif) ![image](https://media.giphy.com/media/CzOyYpyNqbT8c/giphy.gif)
+#### ![image](http://stream1.gifsoup.com/view2/20140603/5046168/omfg-dogs-o.gif)
 
-![image](https://media.tenor.co/images/1381f3b25c04df112e61cfaaddd876e2/tenor.gif)
+
 
 
